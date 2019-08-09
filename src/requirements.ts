@@ -1,3 +1,7 @@
+/*-----------------------------------------------------------------------------------------------
+ *  Copyright (c) Red Hat, Inc. All rights reserved.
+ *  Licensed under the EPL License. See LICENSE file in the project root for license information.
+ *-----------------------------------------------------------------------------------------------*/
 // file copied from vscode-java, the vscode-java API is not exposed and license is EPL so possible
 'use strict';
 
